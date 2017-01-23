@@ -1,0 +1,11 @@
+SecurityPrompt : Disabled
+RefreshPrompt : Enabled
+RegenerateConfig : Enabled
+ProjectBase:C:\Users\Dipti\AppData\Local\Temp\Test Client Projects\14.0
+http://localhost:25937/ClubLinq.svc?wsdl
+http://localhost/clublinqws/ClubLinq.svc?wsdl
+http://localhost/clublinqwsold/ClubLinq.svc?wsdl
+http://localhost:25937/ClubLinq.svc
+http://localhost/clublinqwsold/ClubLinq.svc
+http://localhost:25937/ClubLinq.svc?singleWsdl
+http://localhost/clublinqws/ClubLinq.svc
